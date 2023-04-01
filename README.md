@@ -18,7 +18,7 @@ Esse projeto é utilizado na formação microservices plataforma da alura
 
 Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
 - [Java][java]
-- [Spring boot][sringboot]
+- [Spring boot][sb]
 ## :information_source: Como usar
 
 Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com)
@@ -28,10 +28,10 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/agnaldopidev/pagamentos-ms.git
+$ git clone https://github.com/agnaldopidev/ms-gateway-fastfoodnordestinas.git
 
 # Vá para o ropositório
-$ cd pagamentos-ms
+$ cd ms-gateway-fastfoodnordestinas
 
 ```
 
@@ -40,4 +40,4 @@ $ cd pagamentos-ms
 Esse projeto foi contruido pelo curso do alura cursos professora Jaqueline Oiveira [https://github.com/jacqueline-oliveira]: 
 
 [java]: https://www.java.com/pt-BR/
-[spring boot]: https://spring.io/
+[sb]: https://spring.io/
